@@ -8,7 +8,6 @@ while(inputan!="0"):
   print("2 -- bola")
   print("3 -- Tabung")
   inputan = input()
-  type(inputan)
   if (inputan=="1"):
     jari2 =   float(input("Jari-jari : "))
     tinggi =  float(input("tinggi    : "))
