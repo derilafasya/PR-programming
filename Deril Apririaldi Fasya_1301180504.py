@@ -1,4 +1,3 @@
-import os
 import math           
 inputan="1"
 pi=float(math.pi)
